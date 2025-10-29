@@ -1,5 +1,7 @@
 # NesneTanıma_
   OpenCV ile Nesne Tanıma (C# - EmguCV)
+İndir:Zip dosyasını açıp sadece NesneTanıma_ yazan dosya ile açabilirsiniz
+https://github.com/Zeynep-Otegen/NesneTan-ma_/releases/tag/NesneTan%C4%B1ma
 
 Bu proje, **EmguCV** kütüphanesi kullanılarak geliştirilen basit bir **gerçek zamanlı nesne tanıma uygulamasıdır**.  
 Program, bilgisayar kamerasından alınan görüntüler üzerinde **Haar Cascade** sınıflandırıcılarını kullanarak belirli nesneleri tespit eder.
@@ -26,7 +28,7 @@ Program, bilgisayar kamerasından alınan görüntüler üzerinde **Haar Cascade
  **Haar Cascade XML** - Nesne tespiti için önceden eğitilmiş sınıflandırıcı 
 
 ## Geliştirilebilecek Özellikler
-
+-Renk Tanıma: OpenCV’nin inRange() veya CvInvoke.CvtColor() fonksiyonlarıyla belirli renk aralıklarını algılamak.
 -Nesne Adı Yazdırma: Tespit edilen nesnelerin üzerine, tanımlayıcı isim (örneğin “Yüz”, “Göz”, “Gülümseme”) yazmak.
 -Ekran Görüntüsü Kaydetme: Tespit anında yakalanan görüntüyü otomatik kaydetmek.
 -Farklı Modeller (DNN, YOLO, SSD): Daha gelişmiş nesne tanıma modelleriyle entegrasyon.
