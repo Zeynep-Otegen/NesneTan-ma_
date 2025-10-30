@@ -13,13 +13,20 @@ Program, bilgisayar kamerasından alınan görüntüler üzerinde **Haar Cascade
 ##  Özellikler
 
 - Bilgisayar kamerasını otomatik başlatır.  
+
 - Kullanıcı, bir **Haar Cascade (.xml)** dosyası seçerek istediği nesneyi tanımlayabilir.  
   (Örneğin: yüz, göz, gülümseme vb.)  
+
 - Gerçek zamanlı olarak tespit edilen nesnelerin etrafına **yeşil dikdörtgen** çizilir.  
+
 - Tespit edilen nesne sayısı **ekranda gösterilir**.  
+
 - Basit ve kullanıcı dostu **WinForms** arayüzü.
+
 -"Yüz Eğit" butonuyla kişilerin yüzlerini kaydeder.
+
 -"Yüz Tanıma Başlat" butonuyla kayıtlı yüzleri tanır.
+
 -"Nesne Tanıma Başlat" orijinal nesne tanıma fonksiyonunu çalıştırır.
 
 ---
