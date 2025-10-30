@@ -18,6 +18,9 @@ Program, bilgisayar kamerasından alınan görüntüler üzerinde **Haar Cascade
 - Gerçek zamanlı olarak tespit edilen nesnelerin etrafına **yeşil dikdörtgen** çizilir.  
 - Tespit edilen nesne sayısı **ekranda gösterilir**.  
 - Basit ve kullanıcı dostu **WinForms** arayüzü.
+-"Yüz Eğit" butonuyla kişilerin yüzlerini kaydeder.
+-"Yüz Tanıma Başlat" butonuyla kayıtlı yüzleri tanır.
+-"Nesne Tanıma Başlat" orijinal nesne tanıma fonksiyonunu çalıştırır.
 
 ---
 ##  Kullanılan Teknolojiler
